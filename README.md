@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/riccardo-mura-2b4b426a/), [personal mail](riccardo_mura@yahoo.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/riccardo-mura-2b4b426a/), [personal mail](mailto:riccardo_mura@yahoo.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-mura&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
