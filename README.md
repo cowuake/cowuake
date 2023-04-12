@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/riccardo-mura-2b4b426a/), [e-mail](mailto:riccardo_mura@yahoo.com)
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-mura&include_all_commits=false&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-mura&layout=compact&langs_count=8&theme=calm&hide=HTML,Gnuplot)](https://github.com/anuraghazra/github-readme-stats)
+-->
